@@ -71,11 +71,11 @@
   <distributionManagement>
     <repository>
        <id>nexus-fabric</id>
-       <url>http://nexus-fabric.52.174.61.6.nip.io/content/repositories/releases/</url>
+       <url>http://nexus-fabric.192.168.99.100.nip.io/content/repositories/releases/</url>
     </repository>
      <snapshotRepository>
         <id>nexus-fabric</id>
-        <url>http://nexus-fabric.52.174.61.6.nip.io/content/repositories/snapshots/</url>
+        <url>http://nexus-fabric.192.168.99.100.nip.io/content/repositories/snapshots/</url>
      </snapshotRepository>
   </distributionManagement>
 
